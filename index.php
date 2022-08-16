@@ -1,4 +1,5 @@
 <?php
+//echo "Testing";
 // include 'theme/header/index.php';
 require 'theme/header/header_1.php';
 require 'theme/content/content_1.php';
